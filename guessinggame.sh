@@ -19,4 +19,4 @@ while (( choice !=answer )); do
                 echo "Try again"
         fi
 done
-echo "Winner Winner Chicken Dinner"
+echo "CONGRATULATIONS!! Winner Winner Chicken Dinner"
