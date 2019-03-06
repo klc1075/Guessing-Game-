@@ -23,4 +23,6 @@ while (( choice !=answer )); do
                 echo "Try again"
         fi
 done
+#Finish
 echo "CONGRATULATIONS!! Winner Winner Chicken Dinner"
+Echo "Thanks for playing"
