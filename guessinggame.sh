@@ -25,4 +25,4 @@ while (( choice !=answer )); do
 done
 #Finish
 echo "CONGRATULATIONS!! Winner Winner Chicken Dinner"
-Echo "Thanks for playing"
+
