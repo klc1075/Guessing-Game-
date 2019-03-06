@@ -1,3 +1,7 @@
+## Guessing Game##
+#User will try to guess the number of files in the directory#
+
+
 choice=-1
 correct=7
 typeset -i num=0
