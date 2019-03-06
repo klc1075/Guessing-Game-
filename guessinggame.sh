@@ -6,7 +6,7 @@ choice=-1
 correct=7
 typeset -i num=0
 
-
+#Game Begins
 echo "How many files are in the working directory?"
 
 ###Answer
