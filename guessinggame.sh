@@ -14,7 +14,7 @@ echo "How many files are in the working directory?"
 
 while (( choice !=answer )); do
         num=num+1
-        read -p "Enter choice $num: " choice
+        read -p "Take a guess $num: " choice
         if (( choice < correct )); then
                 echo "Too Low"
                 echo "Try again"
